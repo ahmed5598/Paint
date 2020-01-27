@@ -1,5 +1,14 @@
 # Paint
 To run the program, use the PaintFINAL.jar file.
+![1](https://user-images.githubusercontent.com/59181458/73150515-b721bb00-4094-11ea-8e22-694d7eed57b2.png)
+![2](https://user-images.githubusercontent.com/59181458/73150524-bf79f600-4094-11ea-96cd-c3f3d6cd0713.png)
+![3](https://user-images.githubusercontent.com/59181458/73150528-c6086d80-4094-11ea-91ee-ea7b8bb85db4.png)
+![4](https://user-images.githubusercontent.com/59181458/73150534-cb65b800-4094-11ea-8ec0-8835de5d0824.png)
+![5](https://user-images.githubusercontent.com/59181458/73150545-d6204d00-4094-11ea-94b6-e707b651a8e1.png)
+![6](https://user-images.githubusercontent.com/59181458/73150553-dddff180-4094-11ea-9eee-a48eabe4cdf2.png)
+![7](https://user-images.githubusercontent.com/59181458/73150559-e3d5d280-4094-11ea-93ef-afcc2e99cef2.png)
+
+
 To view the code go to src/paint 
 To draw a shape, select the shape you want to draw then click and drag to expand the shape.
 To copy a shape, press the select button, then select the shape you want to copy, the press the copy button.
